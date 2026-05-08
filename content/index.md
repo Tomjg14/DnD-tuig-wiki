@@ -8,8 +8,7 @@ title: Tuig DnD Wiki
 Welcome to the public archive of the Dragon of Icespire Peak adventure.
 
 ## 📖 Session Logs
-- [[Session 1]]
-- [[Session 2]] (Coming soon...)
+- [[Sessie 1]]
 
 ## 🌍 World Atlas
 - [[Locations]]
